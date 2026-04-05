@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Memory / AI artifacts
+memory.index
+memory_docs.json
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit (optional)
+.streamlit/
